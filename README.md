@@ -1,5 +1,7 @@
 # Projet Olympic Games
 
+Malo LE PAVEC Rémy CHAMANT
+
 ## Lancement
 
 1) Ouvrir un terminal et se placer dans le répertoire du projet
